@@ -9,6 +9,7 @@ int main()
 	for(i=0;i<2;i++)
 		for(j=0;j<2;j++)
 			scanf("%d",&a[i][j]);
+	printf("\nArray 2:");
 	for(i=0;i<2;i++)
 		for(j=0;j<2;j++)
 			scanf("%d",&b[i][j]);
